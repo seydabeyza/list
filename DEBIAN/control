@@ -1,0 +1,8 @@
+Package: seyda
+Version: 1.0
+Architecture: amd64
+Maintainer: Seyda Beyza
+Conflicts:
+Section: web
+Priority: standard
+Description: retrieves files from the web
